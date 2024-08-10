@@ -1,0 +1,11 @@
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.AssemblyInfoInputs.cache
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.AssemblyInfo.cs
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\bin\Debug\net8.0\FatInterface.Core.deps.json
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\bin\Debug\net8.0\FatInterface.Core.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\bin\Debug\net8.0\FatInterface.Core.pdb
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\refint\FatInterface.Core.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\FatInterface.Core.pdb
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Core\obj\Debug\net8.0\ref\FatInterface.Core.dll

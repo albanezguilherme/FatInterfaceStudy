@@ -1,0 +1,15 @@
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.csproj.AssemblyReference.cache
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.AssemblyInfoInputs.cache
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.AssemblyInfo.cs
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\bin\Debug\net8.0\FatInterface.Infra.deps.json
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\bin\Debug\net8.0\FatInterface.Infra.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\bin\Debug\net8.0\FatInterface.Infra.pdb
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\bin\Debug\net8.0\FatInterface.Core.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\bin\Debug\net8.0\FatInterface.Core.pdb
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInter.5E37E98C.Up2Date
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\refint\FatInterface.Infra.dll
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\FatInterface.Infra.pdb
+C:\Users\guilherme.albanez\source\repos\FatInterface\FatInterface.Infra\obj\Debug\net8.0\ref\FatInterface.Infra.dll
